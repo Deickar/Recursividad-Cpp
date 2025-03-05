@@ -1,0 +1,5 @@
+name: recursividad
+projectType: Executable
+cppVersion: 17
+cmakeVersion: 3.20
+defaultConfiguration: Debug
